@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CajaRegistradora</string>
+    <string name="NuevoDia">Borrar</string>
+    <string name="fondo_dinero_en_caja">Fondo/Dinero en Caja</string>
+    <string name="caja">Caja:</string>
+    <string name="efectivo">Efectivo:</string>
+    <string name="hacer_venta">Hacer Venta</string>
+    <string name="u_as_vero">Uñas Vero</string>
+    <string name="venta">Venta</string>
+    <string name="textventa">Venta:</string>
+    <string name="recibido">Recibido</string>
+    <string name="textcambio">Cambio:</string>
+    <string name="ensenarCambio">TextView</string>
+</resources>
