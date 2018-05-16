@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CajaRegistradora.iml" filepath="$PROJECT_DIR$/CajaRegistradora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnasVero_CajaRegistradora.iml" filepath="$PROJECT_DIR$/UnasVero_CajaRegistradora.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
